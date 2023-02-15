@@ -23,7 +23,7 @@ To use the code in this repository, you will need to have an OpenAI API key. Onc
 export OPENAI_API_KEY=<your-api-key>
 ```
 
-**Conclusion**
+**Conclusion** <br />
 By combining the power of the OpenAI API with a dataset of hotel reviews and descriptions in Paris, we can gain valuable insights into the preferences and opinions of hotel guests. This project demonstrates how NLP techniques can be used to analyze large datasets and extract meaningful information.
 
 
